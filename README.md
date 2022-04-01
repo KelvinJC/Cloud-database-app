@@ -1,4 +1,6 @@
 # Cloud-database-app
+![](images/cloud_img.jpg)
+
 An app to store data on a cloud based database server. 
 
 #### Languages
