@@ -4,7 +4,7 @@
 An app to store data on a cloud based database server. 
 
 #### Languages
-* Bash
+* Bash Shell
 * Python
 * SQL
 
